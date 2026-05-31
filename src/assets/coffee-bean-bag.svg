@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee bean bag</title>
+  <desc id="desc">Illustration of a roasted coffee bag with coffee beans.</desc>
+  <defs>
+    <linearGradient id="bag" x1="52" x2="188" y1="26" y2="214" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff1d0"/>
+      <stop offset=".48" stop-color="#ffc857"/>
+      <stop offset="1" stop-color="#ff7a2f"/>
+    </linearGradient>
+    <linearGradient id="label" x1="72" x2="168" y1="86" y2="168" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2b120b"/>
+      <stop offset="1" stop-color="#6b2e16"/>
+    </linearGradient>
+  </defs>
+  <path fill="#2b120b" fill-opacity=".24" d="M55 205c12 19 117 20 130 1 8-12-18-24-65-24s-73 11-65 23Z"/>
+  <path fill="url(#bag)" d="M76 42c0-10 9-18 19-18h50c10 0 19 8 19 18v18l14 23c5 8 8 18 8 28v75c0 17-14 30-30 30H84c-16 0-30-13-30-30v-75c0-10 3-20 8-28l14-23V42Z"/>
+  <path fill="#2b120b" fill-opacity=".14" d="M76 58h88l9 16H67l9-16Z"/>
+  <path fill="#fff8e7" fill-opacity=".38" d="M92 35h56v18H92z"/>
+  <rect width="98" height="82" x="71" y="91" fill="url(#label)" rx="18"/>
+  <path fill="#fff1d0" d="M92 123c0-19 15-35 34-35 10 0 19 4 25 11-5 4-10 9-14 16-5 9-7 19-7 30 0 4 0 8 1 12-2 0-3 1-5 1-19 0-34-16-34-35Z"/>
+  <path fill="#ff7a2f" d="M134 121c5-9 12-16 21-20 4 6 6 13 6 21 0 18-13 33-30 35-2-13-1-25 3-36Z"/>
+  <path fill="none" stroke="#2b120b" stroke-linecap="round" stroke-width="8" d="M126 101c3 13 0 27-10 42"/>
+  <path fill="#fff8e7" fill-opacity=".7" d="M87 185h66c5 0 9 4 9 9s-4 9-9 9H87c-5 0-9-4-9-9s4-9 9-9Z"/>
+</svg>

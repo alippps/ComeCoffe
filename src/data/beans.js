@@ -1,10 +1,3 @@
-import sinam1 from '../assets/sinam1.webp';
-import sinam2 from '../assets/sinam2.webp';
-import sinam3 from '../assets/sinam3.webp';
-import sinam4 from '../assets/sinam4.webp';
-import sinam5 from '../assets/sinam5.webp';
-import sinam6 from '../assets/sinam6.webp';
-
 export const beans = [
   {
     id: 1,
@@ -20,7 +13,6 @@ export const beans = [
     roast: 'Medium-Dark',
     tag: 'Best Seller',
     palette: 'sunset',
-    image: sinam1,
   },
   {
     id: 2,
@@ -36,7 +28,6 @@ export const beans = [
     roast: 'Dark',
     tag: 'Rare Lot',
     palette: 'berry',
-    image: sinam2,
   },
   {
     id: 3,
@@ -52,7 +43,6 @@ export const beans = [
     roast: 'Medium',
     tag: 'Honey',
     palette: 'gold',
-    image: sinam3,
   },
   {
     id: 4,
@@ -68,7 +58,6 @@ export const beans = [
     roast: 'Dark',
     tag: 'Bold',
     palette: 'forest',
-    image: sinam4,
   },
   {
     id: 5,
@@ -84,7 +73,6 @@ export const beans = [
     roast: 'Medium',
     tag: 'Sold Out',
     palette: 'cream',
-    image: sinam5,
   },
   {
     id: 6,
@@ -100,6 +88,5 @@ export const beans = [
     roast: 'Light-Medium',
     tag: 'New Crop',
     palette: 'citrus',
-    image: sinam6,
   },
 ];

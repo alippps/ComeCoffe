@@ -17,7 +17,7 @@ export default function BeanCard({ bean, onAdd }) {
       </div>
 
       <div className="bean-visual">
-        <img src={bean.image || beanBagImage} alt={`${bean.name} coffee bean`} />
+        <img src={beanBagImage} alt={`${bean.name} coffee bean template`} />
       </div>
 
       <div className="bean-location"><MapPin size={14} /> {bean.origin} Â· {bean.altitude}</div>

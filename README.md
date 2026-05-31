@@ -22,14 +22,6 @@ src/
     format.js
   App.jsx
   main.jsx
-```
-
-## Jalankan
-
-```bash
-npm install
-npm run dev
-```
 
 ## Catatan
 
